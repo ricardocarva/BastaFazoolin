@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Basta Fazoolin", "Basta Fazoolin\Basta Fazoolin.pyproj", "{5274C40A-53E1-44D7-AA03-010C2033C7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5274C40A-53E1-44D7-AA03-010C2033C7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5274C40A-53E1-44D7-AA03-010C2033C7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACBBBA88-DCF2-4E54-82D5-BBE958521B04}
+	EndGlobalSection
+EndGlobal
